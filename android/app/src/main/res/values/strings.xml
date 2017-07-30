@@ -1,0 +1,7 @@
+<resources>
+
+
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="facebook_app_id">1682591535401541</string>
+    <string name="app_name">OpenTennis</string>
+</resources>
